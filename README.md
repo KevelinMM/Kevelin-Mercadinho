@@ -9,3 +9,4 @@ Aluna: Kevelin Mondadori Mattos
 ##Documentação:
 
 <a href=https://file:///C:/Users/55499/Downloads/Mercadinho.pdf>Concepções do Sistema</a>
+- <a href=https://github.com/KevelinMM/Kevelin-Mercadinho/blob/main/Levantamento%20de%20Requisitos.pdf>Levantamento de Requisitos</a>
