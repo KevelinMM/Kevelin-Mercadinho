@@ -8,5 +8,6 @@ Aluna: Kevelin Mondadori Mattos
 
 ##Documentação:
 
-<a href=https://file:///C:/Users/55499/Downloads/Mercadinho.pdf>Concepções do Sistema</a>
+- <a href=https://github.com/KevelinMM/Kevelin-Mercadinho/blob/main/Mercadinho.pdf>Concepções do Sistema</a>
 - <a href=https://github.com/KevelinMM/Kevelin-Mercadinho/blob/main/Levantamento%20de%20Requisitos.pdf>Levantamento de Requisitos</a>
+- <a href=https://github.com/KevelinMM/Kevelin-Mercadinho/blob/main/Requisitos%20%C3%81geis%20atualizado.pdf>Sprints e Product Backlogs</a>
