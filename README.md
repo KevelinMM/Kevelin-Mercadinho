@@ -12,3 +12,4 @@ Aluna: Kevelin Mondadori Mattos
 - <a href=https://github.com/KevelinMM/Kevelin-Mercadinho/blob/main/Exercicio-Funcionalidades.pdf>Funcionalidades</a>
 - <a href=https://github.com/KevelinMM/Kevelin-Mercadinho/blob/main/Levantamento%20de%20Requisitos.pdf>Levantamento de Requisitos</a>
 - <a href=https://github.com/KevelinMM/Kevelin-Mercadinho/blob/main/Requisitos%20%C3%81geis%20atualizado.pdf>Sprints e Product Backlogs</a>
+- <a href=https://github.com/KevelinMM/Kevelin-Mercadinho/blob/main/Untitled Diagram-Page-2.drawio.png</a>
